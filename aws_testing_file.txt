@@ -1,1 +1,3 @@
 This is just a sample file for testing
+
+I just changed this file to verify how a changed file shows in GitHub
