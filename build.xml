@@ -1,5 +1,5 @@
 This XML file does not appear to have any style information associated with it. The document tree is shown below.
-<project name="AWS_Project1" default="create-zip" basedir=".">
+<project name="awstraing" default="create-zip" basedir=".">
 <property file="${basedir}/build.properties"/>
 <property name="dist" value="dist"/>
 <property name="build" value="build"/>
